@@ -24,5 +24,9 @@
     "email": "whdqhr345@gmail.com",
     "url": ""
   },
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@types/passport": "^1.0.6",
+    "@types/passport-oauth2": "^1.4.10"
+  }
 }
