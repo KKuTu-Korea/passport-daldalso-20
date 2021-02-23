@@ -23,3 +23,5 @@ unobtrusively integrated into any application or framework that supports
 ## License
 
 [The MIT License](http://opensource.org/licenses/MIT)
+
+Copyright (c) 2021 KKuTu Korea
