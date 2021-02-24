@@ -19,9 +19,10 @@ unobtrusively integrated into any application or framework that supports
 ## Author
 
   - [FishSoup](http://github.com/sengsung)
+  - [KKuTu-Korea](http://github.com/KKuTu-Korea)
   
 ## License
 
 [The MIT License](http://opensource.org/licenses/MIT)
 
-Copyright (c) 2021 KKuTu Korea
+Copyright (c) 2021 KKuTu-Korea
